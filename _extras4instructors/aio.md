@@ -1,4 +1,6 @@
 ---
+title: All in one page (Beta)
+order: 2
 ---
 <script>
   window.onload = function() {
